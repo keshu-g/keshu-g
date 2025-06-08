@@ -1,11 +1,17 @@
-### 👋 Hi, I'm keshu [Kartik Goswami]
+<h1 align="center">Hi 👋, I'm Kartik Goswami</h1>
+<h3 align="center">Full Stack Web Developer | OPC UA Explorer | UI/UX Enjoyer</h3>
+<p></p>
 
-🚀 Full Stack Developer | Node.js | .NET | Express | React | Next.js  
-💻 Passionate about backend optimization & clean architecture  
-📍 India | 🎬 Anime & Movie lover  
+### 🧰 Languages & Frameworks
 
-**Tech Stack:**  
-Node.js | .NET | Express | SQL | React | Next.js  
+- **Languages:** JavaScript, TypeScript, C#, HTML, CSS
+- **Databases:** MSSQL, PostgreSQL, MongoDB
+- **Frontend:** React.js, Next.js, Tailwind, ShadCnUI
+- **Backend:** Node.js, Express.js, .NET (C#), OPC UA
+- **Tools:** Git, Postman, Figma
+---
+### 📌 Currently Working On:
 
-📊 GitHub Stats:
-![Kartik's GitHub stats](https://github-readme-stats.vercel.app/api?username=keshu-g&show_icons=true&theme=radical&hide_rank=true)
+- Backend architecture for enterprise apps (Node.js + .NET)
+- Learning system design and advanced optimization
+- Exploring OPC UA integrations
