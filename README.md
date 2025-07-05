@@ -7,7 +7,7 @@
 - **Languages:** JavaScript, TypeScript, C#, HTML, CSS
 - **Databases:** MSSQL, PostgreSQL, MongoDB
 - **Frontend:** React.js, Next.js, Tailwind, ShadCnUI
-- **Backend:** Node.js, Express.js, .NET (C#), OPC UA
+- **Backend:** Node.js, Express.js, ASP.NET Core (C#), OPC UA
 - **Tools:** Git, Postman, Figma
 ---
 ### 📌 Currently Working On:
