@@ -1,6 +1,4 @@
 <h1 align="center">Hi 👋, I'm Kartik Goswami</h1>
-<h3 align="center">Backend Developer </h3>
-<p></p>
 
 ### 🧰 Skill Set
 
