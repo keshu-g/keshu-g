@@ -2,7 +2,7 @@
 
 ### 🧰 Skill Set
 
-- **Languages:** JavaScript, TypeScript, C#, HTML, CSS
+- **Languages:** JavaScript, C#, HTML, CSS
 - **Backend:** Node JS, ASP.NET Core
 - **Frontend:** React.js, Next.js, Shadcn
 - **Databases:** MongoDB, MS SQL, Redis
@@ -15,4 +15,3 @@
 
 - Backend architecture for enterprise apps (Node.js + .NET)
 - Learning system design and advanced optimization
-- Exploring Elixer
