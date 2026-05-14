@@ -8,7 +8,7 @@
 - **Databases:** MongoDB, MS SQL, Redis
 - **Cloud & Deployment:** Azure, AWS S3, Vercel, Render, VPS
 - **Integrations:** Email Services, OneSignal, Google Service Accounts
-- **Tools:** Postman, SSMS, WSL, Figma
+- **Tools:** Postman, SSMS, WSL, Figma, Claude
 
 ---
 ### 📌 Currently Working ON:
